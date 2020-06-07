@@ -1,0 +1,115 @@
+*{
+
+}
+header{
+    position:relative;
+    margin:auto;
+    width:1000px;
+    height:116px;
+    background-image: url(FONDOREALHH.png);
+    border-radius:10px;
+    border: black 3px solid;
+}
+#logo{
+    position:absolute;
+    margin-top:20px;
+    margin-left:25px;
+}
+audio{
+    position:absolute;
+    margin-right: 25px;
+    margin-top:20px;
+}
+.main{
+    width:90%;
+    max-width:1000px;
+    margin:20px auto;
+}
+.slides{
+    width:100%;
+}
+.slides img{
+    width:100%;
+}
+slidesjs-navigation{
+    background:#424242;
+    list-style:none;
+    overflow: hidden;
+}
+slidesjs-navigation li a {
+    padding:10px 20px;
+    display:block;
+    color:#fff;
+    text-decoration:none;
+}
+slidesjs-navigation li a:hover{
+    background:black;
+}
+.slides .active{
+    background:black;
+}
+.slidesjs-navigation{
+    background:#000;
+    color:#fff;
+    text-decoration:none;
+    display:inline-block;
+    padding:10px 20px;
+    float:right;
+}
+section{
+    position:relative;
+    margin:50px auto;
+    width:1000px;
+    height:500px;
+    border-top-right-radius: 8px;
+}
+aside#izq{
+    position:absolute;
+    margin:0px 800px 0px 0px;
+    width:200px;
+    height:500px;
+    background-color:darkgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px;
+    background-image:url(asidefondo.png);
+}
+    aside#izq ul li{
+        position:absolute;
+        margin:auto;
+    }
+article{
+    position:absolute;
+    margin:0px 0px 0px 200px;
+    width:800px;
+    height:500px;
+    background-color:ghostwhite;
+    border-bottom-right-radius:10px;
+    border-top-right-radius:10px;
+    border: black 3px solid;
+}
+    #INFO{
+        position:relative;
+        margin:auto;
+        width:1001px;
+        height:355px;
+        background-color:lightgray;
+        border-radius:10px;
+        border:black 3px solid;
+    }
+footer{
+    position:relative;
+    margin:auto;
+    margin-top:10px;
+    width:1000px;
+    height:20px;
+    background-color:lightgray;
+    border-radius:10px;
+    }
+    #social{
+        position:absolute;
+        margin-right:50px;
+        width:32px;
+        height:32px;
+        border-radius:100%;
+        background-image: url(Nueva%2520carpeta/insta.png);
+    }

@@ -1,0 +1,94 @@
+@charset "utf-8"
+/*CSS DOCUMENT*/
+ <style>                                                                 *{
+                       margin:auto;
+                       list-style: none;
+                       font-style: none;
+                       border-style: none;
+                    }
+                    body{
+                        background:url(fondototal.png);
+                        background-attachment: fixed;
+                        background-repeat: no-repeat;
+                    }
+                    header{ 
+                        margin:20px;
+                        position::relative;
+                        width: 1000;
+                        height: 116px;
+                        background-image:url(1200.png)
+                    }
+                    #titulo{
+                        position:absolute;
+                        margin-top:20px;
+                        margin-left:50px;
+                        background-color:white;
+                    }
+                    #audio {
+                        position:absolute;
+                        top:50px;
+                        right:50px;
+                    }
+                    #top{
+                        position:relative;
+                        margin:20px auto;
+                        width: 1000px;
+                        height: 57px;
+                        background:white;
+                        list-style:none;
+                        text-align: center;
+                    }
+                    #top ul li {
+                        position:relative;
+                        margin-right: 61px;
+                        width:259px;
+                        float:left;
+                        height:57px;
+                        background:#A4A4A4;
+                        list-style: none;
+                        border-top-right-radius:15px;
+                        text-align: center;
+                    }
+                    footer{ 
+                        position:relative;
+                        margin:auto;
+                        width:1000px;
+                        height: 40px;
+                        background:#424242;
+                        text-align:center;
+                    }
+                    section{
+                        position:relative;
+                        margin:auto;
+                        background:#424242;
+                        width:1000px;
+                        height: 400px;
+                        border-radius:15px;
+                    }
+                    section#izq{
+                        position:absolute;
+                        left:0px;
+                        top:0px;
+                        width: 200px;
+                        height: 400px;
+                        background:#BDBDBD;
+                    }
+                    article{
+                        position:absolute;
+                        left:200px;
+                        top:0px;
+                        width: 600px;
+                        height:400px;
+                        background:#19070B;
+                    }
+                    section#drc{
+                        position:absolute;
+                        right:0px;
+                        top:0px;
+                        width: 200px;
+                        height:400px;
+                        background:#BDBDBD;
+                    }
+                    
+
+                     
