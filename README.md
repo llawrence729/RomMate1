@@ -1,2 +1,2 @@
 # RomMate
-download free roms froms NES SNES N64 GBA AND DS
+download free roms from NES SNES N64 GBA AND DS
